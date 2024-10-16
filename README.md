@@ -83,9 +83,10 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 
-<img src="1.png" width="400">
+![Screenshot 2024-10-16 081245](https://github.com/user-attachments/assets/342f88aa-7a9c-4c78-a2c0-70cf4b6dc781)
 
-<img src="2.png" width="400">
+![Screenshot 2024-10-16 081306](https://github.com/user-attachments/assets/d2475fb4-3449-4f19-932e-313fa0f2cf5c)
+
 
 ## RESULT:
 
